@@ -1,0 +1,16 @@
+{
+  "name": "form-data-poc",
+  "version": "1.0.0",
+  "description": "Proof-of-concept for XHR form submit",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Florentino",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
